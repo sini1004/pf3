@@ -9,3 +9,9 @@ a{
   color:#000;
   text-decoration: none;
 }
+ul {
+  list-style: none;
+}
+img {
+  max-width: 100%;
+}
